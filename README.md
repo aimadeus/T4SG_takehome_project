@@ -1,4 +1,4 @@
-# T4SG F22 Application Deliverable
+# T4SG F22 Application Deliverable - Dean Kim
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can find an example live implementation [here](https://f22-deliv-public.vercel.app/).
 
